@@ -1,5 +1,13 @@
 # Multicraft Technician Intake Assessment
 
+## Begin Here
+New to this project? Start with the Quick Start below, then read [`docs/how-it-works.md`](docs/how-it-works.md). If you need everything to stay on your own computer, follow [`docs/local-setup.md`](docs/local-setup.md) instead.
+
+## Background
+Skilled trades are back, and the money for training is following. Hiring has not kept up. Resumes don't show whether someone can troubleshoot, and interviews don't show whether they'll fit the crew. This project tests both.
+
+Source for the $86 million training funding figure: [ADD SOURCE LINK].
+
 An AI-run technical and personality assessment for skilled-trades candidates. It tests across electrical, PLC and controls, hydraulics, pneumatics, mechanical, CNC and robotics, network communications, and safety. It also looks at teamwork, communication, and accountability.
 
 The assistant never tells a candidate whether an answer is right or wrong. It asks follow-up questions, so the candidate's reasoning shows.
@@ -21,7 +29,7 @@ Full details are in [`docs/how-it-works.md`](docs/how-it-works.md).
 ```
 instructions/   The assistant's instructions
 knowledge/      Company context, question bank, scoring rubric
-docs/           How it works, changelog
+docs/           How it works, local setup, changelog
 ```
 
 ## Privacy and Security
@@ -29,10 +37,13 @@ docs/           How it works, changelog
 - **Review the company context** before publishing. Remove any internal system names or details you don't want public.
 
 ## Running It Locally
-The same instructions and knowledge files can be used with a local model runner such as Ollama or LM Studio, for teams that need data kept on-premises. See `docs/` for notes (to be written).
+The same instructions and knowledge files can be used with a local model runner such as Ollama or LM Studio, for teams that need data kept on-premises. Step-by-step instructions are in [`docs/local-setup.md`](docs/local-setup.md).
 
 ## Video
-[Link to YouTube video: ADD LINK]
+[Watch the video: ADD YOUTUBE LINK]
+
+## More From the Author
+Find more tools and tech reviews at **TheWiredWatchman** (website: [ADD WEBSITE URL]).
 
 ## License
 See [LICENSE](LICENSE).
