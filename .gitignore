@@ -1,0 +1,11 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Private material - never commit
+*.private.md
+evaluator-*.md
+candidates/
