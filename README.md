@@ -6,7 +6,7 @@ New to this project? Start with the Quick Start below, then read [`docs/how-it-w
 ## Background
 Skilled trades are back, and the money for training is following. Hiring has not kept up. Resumes don't show whether someone can troubleshoot, and interviews don't show whether they'll fit the crew. This project tests both.
 
-Source for the $86 million training funding figure: [ADD SOURCE LINK].
+Source for the $86 million training funding figure: [https://www.dol.gov/newsroom/releases/eta/eta20250930].
 
 An AI-run technical and personality assessment for skilled-trades candidates. It tests across electrical, PLC and controls, hydraulics, pneumatics, mechanical, CNC and robotics, network communications, and safety. It also looks at teamwork, communication, and accountability.
 
@@ -40,10 +40,10 @@ docs/           How it works, local setup, changelog
 The same instructions and knowledge files can be used with a local model runner such as Ollama or LM Studio, for teams that need data kept on-premises. Step-by-step instructions are in [`docs/local-setup.md`](docs/local-setup.md).
 
 ## Video
-[Watch the video: ADD YOUTUBE LINK]
+[Watch the video: https://youtu.be/4PIN23i-b5g?si=mG9-5GrZTc0VodnB]
 
 ## More From the Author
-Find more tools and tech reviews at **TheWiredWatchman** (website: [ADD WEBSITE URL]).
+Find more tools and tech reviews at **TheWiredWatchman** (website: https://thewiredwatchman.com/).
 
 ## License
 See [LICENSE](LICENSE).
